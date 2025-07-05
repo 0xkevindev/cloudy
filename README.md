@@ -1,5 +1,3 @@
----
-
 ## 🌥️ Cloudy - Vanilla File Server
 
 **Cloudy** is a simple, clean file server built with **Vanilla Node.js** and a frontend using **HTML + JavaScript** (no frameworks). It allows users to:
