@@ -2,11 +2,11 @@
 
 **Cloudy** is a simple, clean file server built with **Vanilla Node.js** and a frontend using **HTML + JavaScript** (no frameworks). It allows users to:
 
-* 📂 Upload files with progress tracking
-* 📄 View and open files
-* 📥 Download files
-*    Rename files
-* 🗑️ Delete files
+*  Upload files with progress tracking
+*  View and open files
+*  Download files
+*  Rename files
+*  Delete files
 
 ---
 
