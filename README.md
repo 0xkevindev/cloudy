@@ -5,7 +5,7 @@
 * 📂 Upload files with progress tracking
 * 📄 View and open files
 * 📥 Download files
-*   Rename files
+*    Rename files
 * 🗑️ Delete files
 
 ---
